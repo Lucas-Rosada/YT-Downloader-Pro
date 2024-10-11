@@ -47,8 +47,7 @@ Antes de rodar o código, instale as bibliotecas necessárias:
 
 3. **Execução**
    ````bash
-   1.Opção execute o script pyton - python app.py
-   2.Opção execute o .exe (executavel)
+   Execute o script pyton - python app.py
 
 5. **Utilize a interface**
    ```bash
