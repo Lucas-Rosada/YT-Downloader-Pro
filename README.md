@@ -1,4 +1,4 @@
-# YT Downloader Pro - Baixe Vídeos e Áudios com Estilo 🎬🎵
+# YT Downloader Pro
 
 <p align="center">
    <img src="url" width="400" height="400" alt="Logo"/> 
