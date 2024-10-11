@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="url" width="400" height="400" alt="Logo"/> 
+   <img src="https://github.com/Lucas-Rosada/YT-Downloader-Pro/blob/main/Assets/logo.png?raw=true" width="400" height="400" alt="Logo"/> 
 </p>
 
 <h1 align="center">YT-Downloader-Pro</h1>
@@ -57,4 +57,4 @@ Antes de rodar o código, instale as bibliotecas necessárias:
    Se desejar, clique em "Cancelar Download" para parar o processo.
    
 6. **🖼️ Interface do Usuário**
-   <p align="center"> <img src="url" alt="Demonstração" width="200"> </p>
+   <p align="center"> <img src="https://github.com/Lucas-Rosada/YT-Downloader-Pro/blob/main/Assets/ex.png?raw=true" alt="Demonstração" width="350"> </p>
